@@ -1,0 +1,17 @@
+Motozawa:
+    type: web
+    title: PLL設計の基礎
+    author: 元澤篤史
+    url:  https://kobaweb.ei.st.gunma-u.ac.jp/lecture/20190723_motozawa.pdf
+
+Dou:
+    type: web
+    title: 8 章 位相同期回路（PLL）
+    author: 道正志郎
+    url:  https://www.ieice-hbkb.org/files/10/10gun_06hen_08.pdf
+
+Kokubo:
+    type: web
+    title: 位相同期回路の集積化とその応用
+    author: 小久保優
+    url:  https://www.jstage.jst.go.jp/article/essfr/16/2/16_51/_pdf/-char/en
